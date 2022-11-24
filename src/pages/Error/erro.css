@@ -1,0 +1,28 @@
+.error {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+  color: #fff;
+}
+.error h1{
+    margin-bottom: 0.5em;
+}
+.error p{
+    font-style: italic;
+}
+.link{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 1em;
+    padding: 5px 16px;
+    color: #fff;
+    background-color: brown;
+    transition: 0.5s ;
+}
+.link:hover{
+   
+    transform: scale(1.2);
+}

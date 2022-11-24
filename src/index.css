@@ -1,0 +1,16 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: sans-serif;
+  background: linear-gradient(#161922, #0f0f24);
+  min-height: 100vh;
+}
+button{
+  cursor: pointer;
+}
+a{
+  text-decoration: none;
+}
